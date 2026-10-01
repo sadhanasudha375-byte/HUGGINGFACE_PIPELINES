@@ -1,0 +1,20 @@
+original_text,french_translation,german_translation
+"
+Artificial Intelligence is becoming an important technology in modern healthcare.
+Hospitals and healthcare organizations are using AI to improve patient care,
+medical diagnosis, and hospital management.
+
+Machine learning systems can analyze large amounts of medical data and identify
+patterns that may be difficult for humans to notice.
+
+One important application of AI in healthcare is disease prediction. AI models
+can study patient information such as medical history, symptoms, laboratory
+results, and medical images. Based on these patterns, machine learning models
+can help doctors identify possible diseases at an early stage.
+
+AI is also being used in medical imaging. Deep learning models can analyze
+X-rays, CT scans, and other medical images. These systems can help identify
+abnormalities and provide additional information to healthcare professionals.
+
+AI can also support personalized patient care. AI can analyze individual
+patient information and help healthcare professionals underst","L'intelligence artificielle est en train de devenir une technologie importante dans les soins de santé modernes. Les hôpitaux et les organismes de santé utilisent l'IA pour améliorer les soins aux patients, le diagnostic médical et la gestion des hôpitaux. Les systèmes d'apprentissage automatique peuvent analyser de grandes quantités de données médicales et identifier des modèles qui peuvent être difficiles à remarquer pour les humains. Une application importante de l'IA dans les soins de santé est la prédiction des maladies. Les modèles d'IA peuvent étudier l'information des patients comme l'histoire médicale, les symptômes, les résultats de laboratoire et les images médicales.","Künstliche Intelligenz wird zu einer wichtigen Technologie in der modernen Gesundheitsversorgung. Krankenhäuser und Gesundheitsorganisationen verwenden KI, um die Patientenversorgung, medizinische Diagnose und Krankenhausmanagement zu verbessern. Machine Learning-Systeme können große Mengen von medizinischen Daten analysieren und Muster identifizieren, die für den Menschen schwierig zu bemerken sein können. Eine wichtige Anwendung von KI in der Gesundheitsversorgung ist Krankheitsprognose. KI-Modelle können Patienteninformationen wie Krankengeschichte, Symptome, Laborergebnisse und medizinische Bilder studieren. Basierend auf diesen Mustern können maschinelle Lernmodelle Ärzten helfen, mögliche Krankheiten in einem frühen Stadium zu erkennen. KI wird auch in der medizinischen Bildgebung verwendet. Deep Learning-Modelle können Röntgenbilder, CT-Scans und andere medizinische Bilder analysieren. Diese Systeme können helfen, Anomalien zu erkennen und zusätzliche Informationen für medizinische Fachkräfte zur Verfügung stellen. KI kann auch personalisierte Patientenversorgung unterstützen. KI kann individuelle Patienteninformationen analysieren und medizinische Fachkräfte unterstützen."

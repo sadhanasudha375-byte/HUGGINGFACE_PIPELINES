@@ -1,0 +1,9 @@
+question,answer,score
+What is one important application of AI in healthcare?,disease prediction,0.9807044267654419
+What type of data can AI analyze?,"individual
+patient information",0.8228157758712769
+How can AI help with medical imaging?,"AI can analyze individual
+patient information and help healthcare professionals understand different
+treatment requirements",0.07714904844760895
+Why is human supervision important?,when AI is used in healthcare,0.4345323145389557
+What is necessary for safe healthcare AI?,privacy and security,0.19460980594158173
